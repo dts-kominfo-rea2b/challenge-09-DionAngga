@@ -1,0 +1,9 @@
+hr {
+    border-top: 4px dotted #f8f408;
+    width: 500px;
+    margin-bottom: 20px;
+}
+
+h1,h2 {
+  color: #f8f408;
+}
